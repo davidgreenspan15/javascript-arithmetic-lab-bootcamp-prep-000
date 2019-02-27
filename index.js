@@ -12,3 +12,5 @@ function subtract(a, b){
   }
   function dec (n){
     return (n-1)}
+    function makeInt(n)
+    return
